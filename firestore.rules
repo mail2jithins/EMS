@@ -1,0 +1,65 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /**
+     * EMS BADMINTON SECURITY RULES
+     */
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isSignedIn() && request.auth.uid == userId;
+    }
+
+    function getUserData() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data;
+    }
+
+    function isAdmin() {
+      return isSignedIn() && getUserData().role == 'admin';
+    }
+
+    function isScorekeeper() {
+      return isSignedIn() && (getUserData().role == 'scorekeeper' || getUserData().role == 'admin');
+    }
+
+    function isAssignedToCourt(court) {
+      let email = request.auth.token.email;
+      return (email == 'scorekeeper1@test.com' && court == '1') ||
+             (email == 'scorekeeper2@test.com' && court == '2') ||
+             (email == 'scorekeeper3@test.com' && court == '3') ||
+             (email == 'scorekeeper4@test.com' && court == '4') ||
+             (email == 'scorekeeper@test.com') ||
+             isAdmin();
+    }
+
+    // User profiles
+    match /users/{userId} {
+      allow read: if isSignedIn();
+      allow write: if isOwner(userId);
+    }
+
+    // Teams collection
+    match /teams/{teamId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Matches collection
+    match /matches/{matchId} {
+      allow read: if true;
+      allow create: if isAdmin();
+      allow update: if isScorekeeper() && (isAssignedToCourt(resource.data.court) || isAdmin());
+      allow delete: if isAdmin();
+    }
+
+    // Settings collection
+    match /settings/{docId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+  }
+}
