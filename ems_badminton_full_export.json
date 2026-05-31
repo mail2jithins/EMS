@@ -1,0 +1,1800 @@
+{
+  "teams": [
+    {
+      "player1": "Ravi Chandu",
+      "wins": 2,
+      "losses": 4,
+      "name": "Ravi & Jagdeesh",
+      "group": "B",
+      "points": 63,
+      "player2": "Jagdeesh",
+      "id": "09gG9et6HXjgkq3uDUlN",
+      "_matchWins": 2,
+      "_matchLosses": 4,
+      "_matchPoints": 63
+    },
+    {
+      "losses": 4,
+      "wins": 1,
+      "player1": "Alan",
+      "player2": "Amit",
+      "points": 59,
+      "name": "Alan & Amit",
+      "group": "A",
+      "id": "0GdzghqfQvkuwkQp1SOo",
+      "_matchWins": 1,
+      "_matchLosses": 4,
+      "_matchPoints": 59
+    },
+    {
+      "losses": 1,
+      "wins": 5,
+      "player1": "Sohail Jamil",
+      "player2": "Amar Masood",
+      "points": 86,
+      "name": "Sohail & Amar",
+      "group": "B",
+      "id": "1pVrToAQSJjpvRNKbxML",
+      "_matchWins": 5,
+      "_matchLosses": 1,
+      "_matchPoints": 86
+    },
+    {
+      "name": "Jenson & John Paul",
+      "group": "D",
+      "player2": "John Paul",
+      "points": 71,
+      "player1": "Jenson",
+      "losses": 3,
+      "wins": 2,
+      "id": "2LFcQOeGaCEkSYhwhs9n",
+      "_matchWins": 2,
+      "_matchLosses": 3,
+      "_matchPoints": 71
+    },
+    {
+      "player1": "Gokul Abraham",
+      "losses": 3,
+      "wins": 2,
+      "name": "Gokul & Jeason",
+      "group": "A",
+      "points": 65,
+      "player2": "Jeason Paul",
+      "id": "3eqzlgYhJYl1DtpbCyNS",
+      "_matchWins": 2,
+      "_matchLosses": 3,
+      "_matchPoints": 65
+    },
+    {
+      "name": "Manoj & Noby",
+      "group": "A",
+      "player2": "Noby",
+      "points": 60,
+      "player1": "Manoj",
+      "losses": 3,
+      "wins": 2,
+      "id": "BVJUYX9jU1O7ags0j2Ci",
+      "_matchWins": 2,
+      "_matchLosses": 3,
+      "_matchPoints": 60
+    },
+    {
+      "name": "Binoy & Arshad",
+      "group": "C",
+      "player2": "Arshad",
+      "points": 86,
+      "player1": "Binoy",
+      "wins": 5,
+      "losses": 1,
+      "id": "C3yPL3zXm6OqUgkGp1K8",
+      "_matchWins": 5,
+      "_matchLosses": 1,
+      "_matchPoints": 86
+    },
+    {
+      "player2": "Joshua",
+      "points": 71,
+      "name": "Vipin & Joshua",
+      "group": "C",
+      "wins": 2,
+      "losses": 4,
+      "player1": "Vipin",
+      "id": "D13NQ2vq7Id9yB0BuSbi",
+      "_matchWins": 2,
+      "_matchLosses": 4,
+      "_matchPoints": 71
+    },
+    {
+      "wins": 1,
+      "losses": 5,
+      "player1": "Dennis",
+      "player2": "Christy",
+      "points": 56,
+      "group": "B",
+      "name": "Dennis & Christy",
+      "id": "Fv8k5uEOnS2tzklIDGCA",
+      "_matchWins": 1,
+      "_matchLosses": 5,
+      "_matchPoints": 56
+    },
+    {
+      "player1": "Mohammed Adhil",
+      "wins": 4,
+      "losses": 2,
+      "name": "Mohammed & John",
+      "group": "C",
+      "player2": "John",
+      "points": 77,
+      "id": "GwWJk2L3q8TmNtdzXFEM",
+      "_matchWins": 4,
+      "_matchLosses": 2,
+      "_matchPoints": 77
+    },
+    {
+      "player2": "Kaveen",
+      "points": 88,
+      "group": "B",
+      "name": "Printu & Kaveen",
+      "losses": 1,
+      "wins": 5,
+      "player1": "Printu",
+      "id": "M8lKiok68ny2INJw1iRN",
+      "_matchWins": 5,
+      "_matchLosses": 1,
+      "_matchPoints": 88
+    },
+    {
+      "player2": "Nikhil Nair",
+      "points": 71,
+      "name": "Shine & Nikhil",
+      "group": "B",
+      "wins": 3,
+      "losses": 3,
+      "player1": "Shine",
+      "id": "ONLXatkD05rCTuKZN8eq",
+      "_matchWins": 3,
+      "_matchLosses": 3,
+      "_matchPoints": 71
+    },
+    {
+      "name": "Aravind & Tino",
+      "group": "D",
+      "points": 62,
+      "player2": "Tino",
+      "player1": "Aravind",
+      "wins": 2,
+      "losses": 3,
+      "id": "RRW7IBIuqFCrd5HGlz3t",
+      "_matchWins": 2,
+      "_matchLosses": 3,
+      "_matchPoints": 62
+    },
+    {
+      "player2": "Jinu",
+      "points": 74,
+      "name": "Brian & Jinu",
+      "group": "D",
+      "losses": 1,
+      "wins": 4,
+      "player1": "Brian",
+      "id": "UpkoMZ7vggjyWkBajpsq",
+      "_matchWins": 4,
+      "_matchLosses": 1,
+      "_matchPoints": 74
+    },
+    {
+      "losses": 5,
+      "wins": 0,
+      "player1": "Jithin",
+      "player2": "Joyal",
+      "points": 23,
+      "name": "Jithin & Joyal",
+      "group": "D",
+      "id": "VrdFYU02p7nxlb3hA01B",
+      "_matchWins": 0,
+      "_matchLosses": 5,
+      "_matchPoints": 23
+    },
+    {
+      "wins": 5,
+      "losses": 1,
+      "player1": "Praveen",
+      "player2": "Ivan",
+      "points": 84,
+      "name": "Praveen & Ivan",
+      "group": "B",
+      "id": "X9orEabEM8vVezkHh41F",
+      "_matchWins": 5,
+      "_matchLosses": 1,
+      "_matchPoints": 84
+    },
+    {
+      "name": "Sreenivas & Biswajit",
+      "group": "A",
+      "points": 46,
+      "player2": "Biswajit",
+      "player1": "Sreenivas Velugotla",
+      "wins": 1,
+      "losses": 4,
+      "id": "bo0wZHFjpXDiLMWuxnFI",
+      "_matchWins": 1,
+      "_matchLosses": 4,
+      "_matchPoints": 46
+    },
+    {
+      "player1": "Gaurav",
+      "losses": 5,
+      "wins": 1,
+      "name": "Gaurav & Partha",
+      "group": "C",
+      "player2": "Partha",
+      "points": 67,
+      "id": "cR8N7E2zZPOfZkgxWY5B",
+      "_matchWins": 1,
+      "_matchLosses": 5,
+      "_matchPoints": 67
+    },
+    {
+      "name": "Rahul & Arush",
+      "group": "D",
+      "player2": "Arush",
+      "points": 75,
+      "player1": "Rahul Chandu",
+      "wins": 5,
+      "losses": 0,
+      "id": "dC8rK18DsRNkRNqvU5kx",
+      "_matchWins": 5,
+      "_matchLosses": 0,
+      "_matchPoints": 75
+    },
+    {
+      "wins": 2,
+      "losses": 3,
+      "player1": "George",
+      "player2": "Sachin",
+      "points": 64,
+      "name": "George & Sachin",
+      "group": "D",
+      "id": "fSPXSyi7BbHvb3fmwu9Y",
+      "_matchWins": 2,
+      "_matchLosses": 3,
+      "_matchPoints": 64
+    },
+    {
+      "losses": 3,
+      "wins": 3,
+      "player1": "James",
+      "player2": "Fr.Ajeesh",
+      "points": 78,
+      "name": "James & Fr.Ajeesh",
+      "group": "C",
+      "id": "gIGIQJx9HlolXmAxkcly",
+      "_matchWins": 3,
+      "_matchLosses": 3,
+      "_matchPoints": 78
+    },
+    {
+      "name": "Sen & Adarsh",
+      "group": "C",
+      "points": 90,
+      "player2": "Adarsh",
+      "player1": "Sen",
+      "wins": 6,
+      "losses": 0,
+      "id": "mivbWzXkZXWn0hdeQnFm",
+      "_matchWins": 6,
+      "_matchLosses": 0,
+      "_matchPoints": 90
+    },
+    {
+      "losses": 6,
+      "wins": 0,
+      "player1": "Prince",
+      "player2": "Sanu",
+      "points": 45,
+      "name": "Prince & Sanu",
+      "group": "C",
+      "id": "nl3vfJb87beVFnFviGH9",
+      "_matchWins": 0,
+      "_matchLosses": 6,
+      "_matchPoints": 45
+    },
+    {
+      "player2": "Sanu",
+      "points": 36,
+      "group": "B",
+      "name": "Rickles & Sanu",
+      "wins": 0,
+      "losses": 6,
+      "player1": "Rickles",
+      "id": "oJ0ZjAvwHvegidgiKVHP",
+      "_matchWins": 0,
+      "_matchLosses": 6,
+      "_matchPoints": 36
+    },
+    {
+      "player2": "Razeek Ali",
+      "points": 0,
+      "name": "Mohammed & Razeek",
+      "group": "A",
+      "losses": 0,
+      "wins": 0,
+      "player1": "Mohammed Asif",
+      "id": "tAIcX1uWR0DVi7QJcJTf",
+      "_matchWins": 0,
+      "_matchLosses": 0,
+      "_matchPoints": 0
+    },
+    {
+      "player2": "Chan",
+      "points": 74,
+      "name": "Ali & Chan",
+      "group": "A",
+      "wins": 4,
+      "losses": 1,
+      "player1": "Ali",
+      "id": "uscILmawe5B9SwiGcmgq",
+      "_matchWins": 4,
+      "_matchLosses": 1,
+      "_matchPoints": 74
+    },
+    {
+      "losses": 0,
+      "wins": 5,
+      "player1": "Noel Mathew",
+      "player2": "Jerry Thomas",
+      "points": 75,
+      "name": "Noel & Jerry",
+      "group": "A",
+      "id": "vRGLsrj9BHttsNZ8NpQb",
+      "_matchWins": 5,
+      "_matchLosses": 0,
+      "_matchPoints": 75
+    }
+  ],
+  "matches": [
+    {
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 11
+        }
+      ],
+      "team2Id": "X9orEabEM8vVezkHh41F",
+      "court": "2",
+      "group": "B",
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "1pVrToAQSJjpvRNKbxML",
+      "id": "0ewZvmpzhsnOZdfHvvJ8"
+    },
+    {
+      "stage": "knockout",
+      "roundName": "PQ8",
+      "team1Id": "X9orEabEM8vVezkHh41F",
+      "status": "completed",
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "gameScores": [
+        {
+          "team2Score": 12,
+          "team1Score": 21
+        }
+      ],
+      "court": "4",
+      "team2Id": "C3yPL3zXm6OqUgkGp1K8",
+      "id": "0jamsMz1bSE1JVaRECag"
+    },
+    {
+      "status": "completed",
+      "team1Id": "1pVrToAQSJjpvRNKbxML",
+      "roundName": "PQ7",
+      "stage": "knockout",
+      "team2Id": "GwWJk2L3q8TmNtdzXFEM",
+      "court": "3",
+      "gameScores": [
+        {
+          "team2Score": 5,
+          "team1Score": 21
+        }
+      ],
+      "lastPointTeamId": "1pVrToAQSJjpvRNKbxML",
+      "id": "1kyT0V6vH6V0ngMrx9pu"
+    },
+    {
+      "team2Id": "mivbWzXkZXWn0hdeQnFm",
+      "court": "3",
+      "group": "C",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "status": "completed",
+      "team1Id": "cR8N7E2zZPOfZkgxWY5B",
+      "stage": "round-robin",
+      "id": "2EQUcpEvXFC5EJM9dLWX"
+    },
+    {
+      "team2Id": "ONLXatkD05rCTuKZN8eq",
+      "court": "2",
+      "group": "B",
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "gameScores": [
+        {
+          "team2Score": 13,
+          "team1Score": 15
+        }
+      ],
+      "status": "completed",
+      "team1Id": "M8lKiok68ny2INJw1iRN",
+      "stage": "round-robin",
+      "id": "2RPHPJVbJ2F9axIKbrPL"
+    },
+    {
+      "team1Id": "09gG9et6HXjgkq3uDUlN",
+      "status": "completed",
+      "stage": "round-robin",
+      "group": "B",
+      "team2Id": "ONLXatkD05rCTuKZN8eq",
+      "court": "2",
+      "lastPointTeamId": "ONLXatkD05rCTuKZN8eq",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 11
+        }
+      ],
+      "id": "2rkfKrUzYSBL32m7zpCF"
+    },
+    {
+      "group": "A",
+      "team2Id": "vRGLsrj9BHttsNZ8NpQb",
+      "court": "1",
+      "lastPointTeamId": "vRGLsrj9BHttsNZ8NpQb",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 14
+        }
+      ],
+      "team1Id": "uscILmawe5B9SwiGcmgq",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "3N1ZoWa1Qp0gRIrspoD1"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "gIGIQJx9HlolXmAxkcly",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "gIGIQJx9HlolXmAxkcly",
+      "group": "C",
+      "court": "3",
+      "team2Id": "nl3vfJb87beVFnFviGH9",
+      "id": "3UN5BKbAYgjuT2WI65xJ"
+    },
+    {
+      "team1Id": "RRW7IBIuqFCrd5HGlz3t",
+      "status": "completed",
+      "stage": "round-robin",
+      "court": "4",
+      "team2Id": "UpkoMZ7vggjyWkBajpsq",
+      "group": "D",
+      "lastPointTeamId": "UpkoMZ7vggjyWkBajpsq",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "id": "4XLYkqmY9ZzE04frPSWM"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "2LFcQOeGaCEkSYhwhs9n",
+      "status": "completed",
+      "lastPointTeamId": "dC8rK18DsRNkRNqvU5kx",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 14
+        }
+      ],
+      "group": "D",
+      "team2Id": "dC8rK18DsRNkRNqvU5kx",
+      "court": "4",
+      "id": "5Oh0UF1HtpjJwa9Cc7MU"
+    },
+    {
+      "court": "4",
+      "team2Id": "dC8rK18DsRNkRNqvU5kx",
+      "group": "D",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 14
+        }
+      ],
+      "lastPointTeamId": "dC8rK18DsRNkRNqvU5kx",
+      "team1Id": "UpkoMZ7vggjyWkBajpsq",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "5xeijuRfpk7vEcmJj0hm"
+    },
+    {
+      "team2Id": "ONLXatkD05rCTuKZN8eq",
+      "court": "2",
+      "group": "B",
+      "lastPointTeamId": "ONLXatkD05rCTuKZN8eq",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 11
+        }
+      ],
+      "team1Id": "Fv8k5uEOnS2tzklIDGCA",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "7Ymi8FSh86VVFK7sUdCf"
+    },
+    {
+      "team2Id": "vRGLsrj9BHttsNZ8NpQb",
+      "court": "1",
+      "group": "A",
+      "lastPointTeamId": "vRGLsrj9BHttsNZ8NpQb",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 10
+        }
+      ],
+      "team1Id": "0GdzghqfQvkuwkQp1SOo",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "7kcZyVxnsPvGghhdhlkE"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "09gG9et6HXjgkq3uDUlN",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 10,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "09gG9et6HXjgkq3uDUlN",
+      "team2Id": "Fv8k5uEOnS2tzklIDGCA",
+      "court": "2",
+      "group": "B",
+      "id": "7xEBagmOzyhKAmWqravY"
+    },
+    {
+      "court": "1",
+      "team2Id": "uscILmawe5B9SwiGcmgq",
+      "group": "A",
+      "lastPointTeamId": "uscILmawe5B9SwiGcmgq",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "team1Id": "bo0wZHFjpXDiLMWuxnFI",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "8b3M7aiXxcG1IPJCZBP5"
+    },
+    {
+      "lastPointTeamId": "C3yPL3zXm6OqUgkGp1K8",
+      "gameScores": [
+        {
+          "team2Score": 12,
+          "team1Score": 15
+        }
+      ],
+      "group": "C",
+      "team2Id": "gIGIQJx9HlolXmAxkcly",
+      "court": "3",
+      "stage": "round-robin",
+      "team1Id": "C3yPL3zXm6OqUgkGp1K8",
+      "status": "completed",
+      "id": "8sXOoIQzFn3PB5xQlvk5"
+    },
+    {
+      "team1Id": "09gG9et6HXjgkq3uDUlN",
+      "status": "completed",
+      "stage": "round-robin",
+      "group": "B",
+      "team2Id": "1pVrToAQSJjpvRNKbxML",
+      "court": "2",
+      "lastPointTeamId": "1pVrToAQSJjpvRNKbxML",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 8
+        }
+      ],
+      "id": "9H2P6ABOXO7v2o6IAStt"
+    },
+    {
+      "group": "B",
+      "team2Id": "M8lKiok68ny2INJw1iRN",
+      "court": "2",
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "team1Id": "Fv8k5uEOnS2tzklIDGCA",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "9WCI8pZtrYbm2zDP4Eye"
+    },
+    {
+      "group": "A",
+      "team2Id": "vRGLsrj9BHttsNZ8NpQb",
+      "court": "1",
+      "lastPointTeamId": "vRGLsrj9BHttsNZ8NpQb",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 8
+        }
+      ],
+      "team1Id": "3eqzlgYhJYl1DtpbCyNS",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "9oqqxnQMLJEfFEypxuNR"
+    },
+    {
+      "team2Id": "mivbWzXkZXWn0hdeQnFm",
+      "court": "1",
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "gameScores": [
+        {
+          "team1Score": 15,
+          "team2Score": 11
+        },
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        },
+        {
+          "team2Score": 0,
+          "team1Score": 0
+        }
+      ],
+      "team1Id": "X9orEabEM8vVezkHh41F",
+      "status": "completed",
+      "roundName": "S1",
+      "stage": "knockout",
+      "id": "ABvV41kFZroPuALLlR0N"
+    },
+    {
+      "team1Id": "Fv8k5uEOnS2tzklIDGCA",
+      "status": "completed",
+      "stage": "round-robin",
+      "group": "B",
+      "court": "2",
+      "team2Id": "oJ0ZjAvwHvegidgiKVHP",
+      "gameScores": [
+        {
+          "team2Score": 6,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "Fv8k5uEOnS2tzklIDGCA",
+      "id": "ARpAwHAqHtNdSEU0pZiF"
+    },
+    {
+      "team1Id": "2LFcQOeGaCEkSYhwhs9n",
+      "status": "completed",
+      "stage": "round-robin",
+      "court": "4",
+      "team2Id": "VrdFYU02p7nxlb3hA01B",
+      "group": "D",
+      "gameScores": [
+        {
+          "team2Score": 5,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "2LFcQOeGaCEkSYhwhs9n",
+      "id": "AWs5SK3Iaon4z9vzfLxW"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "D13NQ2vq7Id9yB0BuSbi",
+      "status": "completed",
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 12
+        }
+      ],
+      "team2Id": "mivbWzXkZXWn0hdeQnFm",
+      "court": "3",
+      "group": "C",
+      "id": "AYDOqiB9CqzU8qxV2d9M"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 18,
+          "team1Score": 21
+        },
+        {
+          "team2Score": 18,
+          "team1Score": 21
+        },
+        {
+          "team2Score": 0,
+          "team1Score": 0
+        }
+      ],
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "team2Id": "3eqzlgYhJYl1DtpbCyNS",
+      "court": "3",
+      "stage": "knockout",
+      "team1Id": "mivbWzXkZXWn0hdeQnFm",
+      "status": "completed",
+      "roundName": "TP",
+      "id": "BDl1R22kM3QsHBUW2t42"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "BVJUYX9jU1O7ags0j2Ci",
+      "status": "completed",
+      "lastPointTeamId": "uscILmawe5B9SwiGcmgq",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 9
+        }
+      ],
+      "group": "A",
+      "court": "1",
+      "team2Id": "uscILmawe5B9SwiGcmgq",
+      "id": "BU1PyThS6LlOwK9RMh0O"
+    },
+    {
+      "group": "B",
+      "court": "2",
+      "team2Id": "oJ0ZjAvwHvegidgiKVHP",
+      "gameScores": [
+        {
+          "team2Score": 4,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "team1Id": "X9orEabEM8vVezkHh41F",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "C7ubfCWObPOK65BmErlv"
+    },
+    {
+      "stage": "knockout",
+      "roundName": "Q1",
+      "team1Id": "vRGLsrj9BHttsNZ8NpQb",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 21,
+          "team1Score": 16
+        }
+      ],
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "team2Id": "X9orEabEM8vVezkHh41F",
+      "court": "1",
+      "id": "Dbgnukk7szYhKDcG2KDl"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "RRW7IBIuqFCrd5HGlz3t",
+      "status": "completed",
+      "lastPointTeamId": "RRW7IBIuqFCrd5HGlz3t",
+      "gameScores": [
+        {
+          "team2Score": 4,
+          "team1Score": 15
+        }
+      ],
+      "team2Id": "VrdFYU02p7nxlb3hA01B",
+      "court": "4",
+      "group": "D",
+      "id": "DkScAHRSl0lSoAWIeIYO"
+    },
+    {
+      "team1Id": "09gG9et6HXjgkq3uDUlN",
+      "status": "completed",
+      "stage": "round-robin",
+      "team2Id": "M8lKiok68ny2INJw1iRN",
+      "court": "2",
+      "group": "B",
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 7
+        }
+      ],
+      "id": "EJRqvFyt4WYFn0CTDiRD"
+    },
+    {
+      "lastPointTeamId": "GwWJk2L3q8TmNtdzXFEM",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 8
+        }
+      ],
+      "court": "3",
+      "team2Id": "GwWJk2L3q8TmNtdzXFEM",
+      "group": "C",
+      "stage": "round-robin",
+      "team1Id": "D13NQ2vq7Id9yB0BuSbi",
+      "status": "completed",
+      "id": "EohAZFC4FfOb1iwQO2Uf"
+    },
+    {
+      "status": "completed",
+      "team1Id": "2LFcQOeGaCEkSYhwhs9n",
+      "stage": "round-robin",
+      "group": "D",
+      "team2Id": "RRW7IBIuqFCrd5HGlz3t",
+      "court": "4",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "lastPointTeamId": "RRW7IBIuqFCrd5HGlz3t",
+      "id": "EpstSofqTac7Y3egb0RB"
+    },
+    {
+      "roundName": "Q4",
+      "team1Id": "mivbWzXkZXWn0hdeQnFm",
+      "status": "completed",
+      "stage": "knockout",
+      "court": "4",
+      "team2Id": "uscILmawe5B9SwiGcmgq",
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "gameScores": [
+        {
+          "team2Score": 13,
+          "team1Score": 21
+        }
+      ],
+      "id": "GUcrZW0IJtEvReq4pN8v"
+    },
+    {
+      "lastPointTeamId": "3eqzlgYhJYl1DtpbCyNS",
+      "gameScores": [
+        {
+          "team2Score": 21,
+          "team1Score": 14
+        }
+      ],
+      "team2Id": "3eqzlgYhJYl1DtpbCyNS",
+      "court": "2",
+      "stage": "knockout",
+      "roundName": "Q2",
+      "status": "completed",
+      "team1Id": "BVJUYX9jU1O7ags0j2Ci",
+      "id": "HG8yDHkPkwZeCogQRcwh"
+    },
+    {
+      "roundName": "S2",
+      "team1Id": "3eqzlgYhJYl1DtpbCyNS",
+      "status": "completed",
+      "stage": "knockout",
+      "team2Id": "M8lKiok68ny2INJw1iRN",
+      "court": "3",
+      "gameScores": [
+        {
+          "team1Score": 9,
+          "team2Score": 15
+        },
+        {
+          "team2Score": 0,
+          "team1Score": 0
+        },
+        {
+          "team2Score": 0,
+          "team1Score": 0
+        }
+      ],
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "id": "K7OoufwOUX3pxpFMsKsk"
+    },
+    {
+      "team1Id": "UpkoMZ7vggjyWkBajpsq",
+      "status": "completed",
+      "stage": "round-robin",
+      "team2Id": "VrdFYU02p7nxlb3hA01B",
+      "court": "4",
+      "group": "D",
+      "lastPointTeamId": "UpkoMZ7vggjyWkBajpsq",
+      "gameScores": [
+        {
+          "team2Score": 7,
+          "team1Score": 15
+        }
+      ],
+      "id": "KnEuzGdMyuEM7FjKSEGI"
+    },
+    {
+      "team2Id": "X9orEabEM8vVezkHh41F",
+      "court": "2",
+      "group": "B",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 7
+        }
+      ],
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "team1Id": "09gG9et6HXjgkq3uDUlN",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "L8dCmPIsz7bfoMtmfMFD"
+    },
+    {
+      "court": "3",
+      "team2Id": "2LFcQOeGaCEkSYhwhs9n",
+      "gameScores": [
+        {
+          "team2Score": 13,
+          "team1Score": 20
+        }
+      ],
+      "lastPointTeamId": "uscILmawe5B9SwiGcmgq",
+      "roundName": "PQ3",
+      "team1Id": "uscILmawe5B9SwiGcmgq",
+      "status": "completed",
+      "stage": "knockout",
+      "id": "LCwdLVVDat6bGIEbJ9SD"
+    },
+    {
+      "team1Id": "1pVrToAQSJjpvRNKbxML",
+      "status": "completed",
+      "stage": "round-robin",
+      "group": "B",
+      "team2Id": "ONLXatkD05rCTuKZN8eq",
+      "court": "2",
+      "gameScores": [
+        {
+          "team2Score": 10,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "1pVrToAQSJjpvRNKbxML",
+      "id": "LZd2w8OryuuX3lLBghR2"
+    },
+    {
+      "team1Id": "09gG9et6HXjgkq3uDUlN",
+      "status": "completed",
+      "stage": "round-robin",
+      "team2Id": "oJ0ZjAvwHvegidgiKVHP",
+      "court": "2",
+      "group": "B",
+      "gameScores": [
+        {
+          "team2Score": 8,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "09gG9et6HXjgkq3uDUlN",
+      "id": "La8aYwd8lBwvAciXMcId"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 5,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "1pVrToAQSJjpvRNKbxML",
+      "court": "2",
+      "team2Id": "oJ0ZjAvwHvegidgiKVHP",
+      "group": "B",
+      "stage": "round-robin",
+      "team1Id": "1pVrToAQSJjpvRNKbxML",
+      "status": "completed",
+      "id": "M0pwnpp3UTEkjq0dCBM4"
+    },
+    {
+      "roundName": "PQ6",
+      "status": "completed",
+      "team1Id": "mivbWzXkZXWn0hdeQnFm",
+      "stage": "knockout",
+      "team2Id": "ONLXatkD05rCTuKZN8eq",
+      "court": "2",
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "gameScores": [
+        {
+          "team2Score": 11,
+          "team1Score": 21
+        }
+      ],
+      "id": "MYfRjQSov6o93j1C1iub"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 21,
+          "team1Score": 18
+        }
+      ],
+      "lastPointTeamId": "BVJUYX9jU1O7ags0j2Ci",
+      "team2Id": "BVJUYX9jU1O7ags0j2Ci",
+      "court": "2",
+      "stage": "knockout",
+      "roundName": "PQ2",
+      "status": "completed",
+      "team1Id": "dC8rK18DsRNkRNqvU5kx",
+      "id": "Nk0x5gWpiGXLv5NmeQDd"
+    },
+    {
+      "group": "C",
+      "team2Id": "gIGIQJx9HlolXmAxkcly",
+      "court": "3",
+      "lastPointTeamId": "gIGIQJx9HlolXmAxkcly",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 11
+        }
+      ],
+      "team1Id": "cR8N7E2zZPOfZkgxWY5B",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "OdjIU4F6SezzrFxCLpDK"
+    },
+    {
+      "team2Id": "uscILmawe5B9SwiGcmgq",
+      "court": "1",
+      "group": "A",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 9
+        }
+      ],
+      "lastPointTeamId": "uscILmawe5B9SwiGcmgq",
+      "status": "completed",
+      "team1Id": "0GdzghqfQvkuwkQp1SOo",
+      "stage": "round-robin",
+      "id": "PQrRtsXHH7ADI4BSXFHv"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "VrdFYU02p7nxlb3hA01B",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 5
+        }
+      ],
+      "lastPointTeamId": "fSPXSyi7BbHvb3fmwu9Y",
+      "group": "D",
+      "team2Id": "fSPXSyi7BbHvb3fmwu9Y",
+      "court": "4",
+      "id": "PXkzzlZwouTW1PlwanUz"
+    },
+    {
+      "team2Id": "dC8rK18DsRNkRNqvU5kx",
+      "court": "4",
+      "group": "D",
+      "lastPointTeamId": "dC8rK18DsRNkRNqvU5kx",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 11
+        }
+      ],
+      "team1Id": "RRW7IBIuqFCrd5HGlz3t",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "PsVrPrxzpn4mcusO9xtH"
+    },
+    {
+      "team2Id": "GwWJk2L3q8TmNtdzXFEM",
+      "court": "3",
+      "group": "C",
+      "gameScores": [
+        {
+          "team2Score": 11,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "C3yPL3zXm6OqUgkGp1K8",
+      "team1Id": "C3yPL3zXm6OqUgkGp1K8",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "QHfrgMbESTaZxS3I4Gu8"
+    },
+    {
+      "team2Id": "cR8N7E2zZPOfZkgxWY5B",
+      "court": "3",
+      "group": "C",
+      "lastPointTeamId": "C3yPL3zXm6OqUgkGp1K8",
+      "gameScores": [
+        {
+          "team2Score": 7,
+          "team1Score": 15
+        }
+      ],
+      "team1Id": "C3yPL3zXm6OqUgkGp1K8",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "QLfYppoPrqCfxXGyc16m"
+    },
+    {
+      "lastPointTeamId": "dC8rK18DsRNkRNqvU5kx",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 2
+        }
+      ],
+      "group": "D",
+      "team2Id": "dC8rK18DsRNkRNqvU5kx",
+      "court": "4",
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "VrdFYU02p7nxlb3hA01B",
+      "id": "RdzMC4IIO8N4umN1Rp98"
+    },
+    {
+      "stage": "knockout",
+      "team1Id": "vRGLsrj9BHttsNZ8NpQb",
+      "status": "completed",
+      "roundName": "PQ1",
+      "gameScores": [
+        {
+          "team2Score": 12,
+          "team1Score": 21
+        }
+      ],
+      "lastPointTeamId": "vRGLsrj9BHttsNZ8NpQb",
+      "court": "1",
+      "team2Id": "fSPXSyi7BbHvb3fmwu9Y",
+      "id": "S3cWTPwdqQmZW1AlY6cG"
+    },
+    {
+      "group": "D",
+      "team2Id": "fSPXSyi7BbHvb3fmwu9Y",
+      "court": "4",
+      "gameScores": [
+        {
+          "team2Score": 13,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "2LFcQOeGaCEkSYhwhs9n",
+      "team1Id": "2LFcQOeGaCEkSYhwhs9n",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "SwqDULthFW6UTT9yO7sM"
+    },
+    {
+      "status": "completed",
+      "team1Id": "gIGIQJx9HlolXmAxkcly",
+      "stage": "round-robin",
+      "team2Id": "mivbWzXkZXWn0hdeQnFm",
+      "court": "3",
+      "group": "C",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 12
+        }
+      ],
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "id": "TTZ0kkCosarClcgmoMEX"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "GwWJk2L3q8TmNtdzXFEM",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 6,
+          "team1Score": 14
+        }
+      ],
+      "lastPointTeamId": "nl3vfJb87beVFnFviGH9",
+      "group": "C",
+      "team2Id": "nl3vfJb87beVFnFviGH9",
+      "court": "3",
+      "id": "VyzCR9QJJjFvl9LYjim4"
+    },
+    {
+      "team1Id": "0GdzghqfQvkuwkQp1SOo",
+      "status": "completed",
+      "stage": "round-robin",
+      "team2Id": "bo0wZHFjpXDiLMWuxnFI",
+      "court": "1",
+      "group": "A",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 12
+        }
+      ],
+      "lastPointTeamId": "bo0wZHFjpXDiLMWuxnFI",
+      "id": "W6o4RC659BclAzTdFl35"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "C3yPL3zXm6OqUgkGp1K8",
+      "status": "completed",
+      "lastPointTeamId": "C3yPL3zXm6OqUgkGp1K8",
+      "gameScores": [
+        {
+          "team2Score": 8,
+          "team1Score": 15
+        }
+      ],
+      "group": "C",
+      "team2Id": "nl3vfJb87beVFnFviGH9",
+      "court": "3",
+      "id": "WC8LAM5roWb4N2xZJZYW"
+    },
+    {
+      "lastPointTeamId": "vRGLsrj9BHttsNZ8NpQb",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 3
+        }
+      ],
+      "group": "A",
+      "team2Id": "vRGLsrj9BHttsNZ8NpQb",
+      "court": "1",
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "bo0wZHFjpXDiLMWuxnFI",
+      "id": "WnhBxqScXveb9kgxwINL"
+    },
+    {
+      "team1Id": "3eqzlgYhJYl1DtpbCyNS",
+      "status": "completed",
+      "stage": "round-robin",
+      "team2Id": "uscILmawe5B9SwiGcmgq",
+      "court": "1",
+      "group": "A",
+      "lastPointTeamId": "uscILmawe5B9SwiGcmgq",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 14
+        }
+      ],
+      "id": "XoWg1fqAoE5glDooqt4c"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 12
+        }
+      ],
+      "lastPointTeamId": "gIGIQJx9HlolXmAxkcly",
+      "group": "C",
+      "court": "3",
+      "team2Id": "gIGIQJx9HlolXmAxkcly",
+      "stage": "round-robin",
+      "team1Id": "D13NQ2vq7Id9yB0BuSbi",
+      "status": "completed",
+      "id": "ZTlsUizOIV6Ii0ULTUaJ"
+    },
+    {
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "D13NQ2vq7Id9yB0BuSbi",
+      "lastPointTeamId": "D13NQ2vq7Id9yB0BuSbi",
+      "gameScores": [
+        {
+          "team2Score": 7,
+          "team1Score": 15
+        }
+      ],
+      "group": "C",
+      "team2Id": "nl3vfJb87beVFnFviGH9",
+      "court": "3",
+      "id": "aMxyNvALNR6Tku4DYyrc"
+    },
+    {
+      "court": "2",
+      "team2Id": "oJ0ZjAvwHvegidgiKVHP",
+      "group": "B",
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "gameScores": [
+        {
+          "team2Score": 6,
+          "team1Score": 15
+        }
+      ],
+      "team1Id": "M8lKiok68ny2INJw1iRN",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "bJ2fAPPfilke4ZTOR45S"
+    },
+    {
+      "team1Id": "RRW7IBIuqFCrd5HGlz3t",
+      "status": "completed",
+      "stage": "round-robin",
+      "group": "D",
+      "team2Id": "fSPXSyi7BbHvb3fmwu9Y",
+      "court": "4",
+      "lastPointTeamId": "fSPXSyi7BbHvb3fmwu9Y",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 8
+        }
+      ],
+      "id": "bQ3M0tgC2eKqG8ABLBur"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 18,
+          "team1Score": 21
+        }
+      ],
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "court": "3",
+      "team2Id": "1pVrToAQSJjpvRNKbxML",
+      "stage": "knockout",
+      "roundName": "Q3",
+      "team1Id": "M8lKiok68ny2INJw1iRN",
+      "status": "completed",
+      "id": "blTZL5nQBFuw65h7LnOr"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "3eqzlgYhJYl1DtpbCyNS",
+      "team2Id": "bo0wZHFjpXDiLMWuxnFI",
+      "court": "1",
+      "group": "A",
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "3eqzlgYhJYl1DtpbCyNS",
+      "id": "brkn4UfKSzPriDKNWRWQ"
+    },
+    {
+      "team2Id": "cR8N7E2zZPOfZkgxWY5B",
+      "court": "3",
+      "group": "C",
+      "lastPointTeamId": "GwWJk2L3q8TmNtdzXFEM",
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "team1Id": "GwWJk2L3q8TmNtdzXFEM",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "byzOBK461BbKTRPY2ykc"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 14
+        }
+      ],
+      "lastPointTeamId": "UpkoMZ7vggjyWkBajpsq",
+      "court": "4",
+      "team2Id": "UpkoMZ7vggjyWkBajpsq",
+      "group": "D",
+      "stage": "round-robin",
+      "team1Id": "2LFcQOeGaCEkSYhwhs9n",
+      "status": "completed",
+      "id": "c7SCmOt9WClXU5tWnEX7"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 10,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "dC8rK18DsRNkRNqvU5kx",
+      "group": "D",
+      "team2Id": "fSPXSyi7BbHvb3fmwu9Y",
+      "court": "4",
+      "stage": "round-robin",
+      "team1Id": "dC8rK18DsRNkRNqvU5kx",
+      "status": "completed",
+      "id": "dWMm6766w0cbT32fsxTj"
+    },
+    {
+      "lastPointTeamId": "1pVrToAQSJjpvRNKbxML",
+      "gameScores": [
+        {
+          "team2Score": 3,
+          "team1Score": 15
+        }
+      ],
+      "court": "2",
+      "team2Id": "Fv8k5uEOnS2tzklIDGCA",
+      "group": "B",
+      "stage": "round-robin",
+      "team1Id": "1pVrToAQSJjpvRNKbxML",
+      "status": "completed",
+      "id": "eaf3FMGxrqkT1iYoCJlk"
+    },
+    {
+      "status": "completed",
+      "team1Id": "GwWJk2L3q8TmNtdzXFEM",
+      "stage": "round-robin",
+      "group": "C",
+      "team2Id": "gIGIQJx9HlolXmAxkcly",
+      "court": "3",
+      "lastPointTeamId": "gIGIQJx9HlolXmAxkcly",
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "id": "fMQc5CG6FrVL8irHSS5F"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "lastPointTeamId": "3eqzlgYhJYl1DtpbCyNS",
+      "group": "A",
+      "team2Id": "3eqzlgYhJYl1DtpbCyNS",
+      "court": "1",
+      "stage": "round-robin",
+      "team1Id": "0GdzghqfQvkuwkQp1SOo",
+      "status": "completed",
+      "id": "gSGOKFMoMn9Cqt5nIQ1j"
+    },
+    {
+      "team1Id": "GwWJk2L3q8TmNtdzXFEM",
+      "status": "completed",
+      "stage": "round-robin",
+      "group": "C",
+      "team2Id": "mivbWzXkZXWn0hdeQnFm",
+      "court": "3",
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 7
+        }
+      ],
+      "id": "hMOtZL0YkXcoMEBtMdSA"
+    },
+    {
+      "team2Id": "M8lKiok68ny2INJw1iRN",
+      "court": "2",
+      "group": "B",
+      "lastPointTeamId": "1pVrToAQSJjpvRNKbxML",
+      "gameScores": [
+        {
+          "team2Score": 13,
+          "team1Score": 15
+        }
+      ],
+      "status": "completed",
+      "team1Id": "1pVrToAQSJjpvRNKbxML",
+      "stage": "round-robin",
+      "id": "hkzIG6OgS7NUlRVLF591"
+    },
+    {
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "D13NQ2vq7Id9yB0BuSbi",
+      "gameScores": [
+        {
+          "team2Score": 12,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "D13NQ2vq7Id9yB0BuSbi",
+      "team2Id": "cR8N7E2zZPOfZkgxWY5B",
+      "court": "3",
+      "group": "C",
+      "id": "jYDCaB46wB9w9xIvtScT"
+    },
+    {
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "team2Id": "X9orEabEM8vVezkHh41F",
+      "court": "2",
+      "group": "B",
+      "stage": "round-robin",
+      "team1Id": "M8lKiok68ny2INJw1iRN",
+      "status": "completed",
+      "id": "k1JMhtvYwbsAKoF233jX"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "BVJUYX9jU1O7ags0j2Ci",
+      "status": "completed",
+      "lastPointTeamId": "BVJUYX9jU1O7ags0j2Ci",
+      "gameScores": [
+        {
+          "team2Score": 6,
+          "team1Score": 15
+        }
+      ],
+      "court": "1",
+      "team2Id": "bo0wZHFjpXDiLMWuxnFI",
+      "group": "A",
+      "id": "nPo4WM3cRfn64g31vksk"
+    },
+    {
+      "team1Id": "ONLXatkD05rCTuKZN8eq",
+      "status": "completed",
+      "stage": "round-robin",
+      "court": "2",
+      "team2Id": "oJ0ZjAvwHvegidgiKVHP",
+      "group": "B",
+      "lastPointTeamId": "ONLXatkD05rCTuKZN8eq",
+      "gameScores": [
+        {
+          "team2Score": 7,
+          "team1Score": 15
+        }
+      ],
+      "id": "p7ffYQVVhlDyfMyDETqM"
+    },
+    {
+      "lastPointTeamId": "UpkoMZ7vggjyWkBajpsq",
+      "gameScores": [
+        {
+          "team2Score": 11,
+          "team1Score": 15
+        }
+      ],
+      "court": "4",
+      "team2Id": "fSPXSyi7BbHvb3fmwu9Y",
+      "group": "D",
+      "stage": "round-robin",
+      "team1Id": "UpkoMZ7vggjyWkBajpsq",
+      "status": "completed",
+      "id": "qdKRXUWMiF9Ck9mPfBL6"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "0GdzghqfQvkuwkQp1SOo",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 12,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "0GdzghqfQvkuwkQp1SOo",
+      "court": "1",
+      "team2Id": "BVJUYX9jU1O7ags0j2Ci",
+      "group": "A",
+      "id": "rDWbNj2Fd5qWMYX8SSOi"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "Fv8k5uEOnS2tzklIDGCA",
+      "status": "completed",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 4
+        }
+      ],
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "group": "B",
+      "team2Id": "X9orEabEM8vVezkHh41F",
+      "court": "2",
+      "id": "rLVDtZWjD17hORFfif17"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 11
+        }
+      ],
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "group": "C",
+      "team2Id": "mivbWzXkZXWn0hdeQnFm",
+      "court": "3",
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "C3yPL3zXm6OqUgkGp1K8",
+      "id": "uEQPbyqAe5QVS3N3IWhe"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "BVJUYX9jU1O7ags0j2Ci",
+      "status": "completed",
+      "lastPointTeamId": "vRGLsrj9BHttsNZ8NpQb",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 9
+        }
+      ],
+      "court": "1",
+      "team2Id": "vRGLsrj9BHttsNZ8NpQb",
+      "group": "A",
+      "id": "uSSn9zNONDAlteIgzkWf"
+    },
+    {
+      "group": "C",
+      "court": "3",
+      "team2Id": "D13NQ2vq7Id9yB0BuSbi",
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "lastPointTeamId": "C3yPL3zXm6OqUgkGp1K8",
+      "team1Id": "C3yPL3zXm6OqUgkGp1K8",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "uZc5ndLKvIGTO8evOykp"
+    },
+    {
+      "roundName": "F",
+      "status": "live",
+      "team1Id": "X9orEabEM8vVezkHh41F",
+      "stage": "knockout",
+      "team2Id": "M8lKiok68ny2INJw1iRN",
+      "court": "3",
+      "gameScores": [
+        {
+          "team1Score": 16,
+          "team2Score": 14
+        },
+        {
+          "team2Score": 0,
+          "team1Score": 0
+        },
+        {
+          "team1Score": 0,
+          "team2Score": 0
+        }
+      ],
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "id": "vhLBqKgJBhYsrlZjFr2k"
+    },
+    {
+      "gameScores": [
+        {
+          "team2Score": 13,
+          "team1Score": 21
+        }
+      ],
+      "lastPointTeamId": "M8lKiok68ny2INJw1iRN",
+      "team2Id": "gIGIQJx9HlolXmAxkcly",
+      "court": "1",
+      "stage": "knockout",
+      "team1Id": "M8lKiok68ny2INJw1iRN",
+      "status": "completed",
+      "roundName": "PQ5",
+      "id": "vqlHGNOvpURSiPwu5sI4"
+    },
+    {
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "mivbWzXkZXWn0hdeQnFm",
+      "lastPointTeamId": "mivbWzXkZXWn0hdeQnFm",
+      "gameScores": [
+        {
+          "team2Score": 9,
+          "team1Score": 15
+        }
+      ],
+      "group": "C",
+      "team2Id": "nl3vfJb87beVFnFviGH9",
+      "court": "3",
+      "id": "w40r5ekDfjsz4wuyXq20"
+    },
+    {
+      "lastPointTeamId": "3eqzlgYhJYl1DtpbCyNS",
+      "gameScores": [
+        {
+          "team2Score": 14,
+          "team1Score": 21
+        }
+      ],
+      "team2Id": "UpkoMZ7vggjyWkBajpsq",
+      "court": "4",
+      "stage": "knockout",
+      "roundName": "PQ4",
+      "team1Id": "3eqzlgYhJYl1DtpbCyNS",
+      "status": "completed",
+      "id": "y3ooZDDlveuT1BpfpBot"
+    },
+    {
+      "group": "B",
+      "team2Id": "X9orEabEM8vVezkHh41F",
+      "court": "2",
+      "lastPointTeamId": "X9orEabEM8vVezkHh41F",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 3
+        }
+      ],
+      "team1Id": "ONLXatkD05rCTuKZN8eq",
+      "status": "completed",
+      "stage": "round-robin",
+      "id": "yV9vJDvK5x1WLN2y4WfF"
+    },
+    {
+      "stage": "round-robin",
+      "status": "completed",
+      "team1Id": "cR8N7E2zZPOfZkgxWY5B",
+      "lastPointTeamId": "cR8N7E2zZPOfZkgxWY5B",
+      "gameScores": [
+        {
+          "team2Score": 6,
+          "team1Score": 15
+        }
+      ],
+      "team2Id": "nl3vfJb87beVFnFviGH9",
+      "court": "3",
+      "group": "C",
+      "id": "zIqJlhWKYXiZ3ypuopxu"
+    },
+    {
+      "stage": "round-robin",
+      "team1Id": "3eqzlgYhJYl1DtpbCyNS",
+      "status": "completed",
+      "lastPointTeamId": "BVJUYX9jU1O7ags0j2Ci",
+      "gameScores": [
+        {
+          "team2Score": 15,
+          "team1Score": 13
+        }
+      ],
+      "group": "A",
+      "team2Id": "BVJUYX9jU1O7ags0j2Ci",
+      "court": "1",
+      "id": "zVhjwAjUTyMq1dTd4kXo"
+    }
+  ],
+  "settings": {
+    "maxTeams": 27
+  }
+}
